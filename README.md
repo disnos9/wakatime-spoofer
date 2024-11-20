@@ -31,6 +31,11 @@ It’s designed to help you simulate activity on Wakatime with human-like precis
 1. Download **Wakatime Spoofer** from the [Releases page](https://github.com/disnos9/wakatime-spoofer/releases) on this repo.
 2. You'll download the file `wakatimespoofer-macos`.
 3. Open your **Terminal** and type:
+   - NOTE: Make sure you are in your user directory. If your username on your computer is "wakahacker" then your terminal will say:
+    ```bash
+   wakahacker@Mac-mini ~ % 
+   ```
+   If you see the ~ then you should be in your user directory. Restart Terminal if you aren't in it. Then, run this command
     ```bash
     cd downloads
     ```
