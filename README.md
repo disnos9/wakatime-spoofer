@@ -20,16 +20,15 @@ It’s designed to help you simulate activity on Wakatime with human-like precis
 
 ## How to Use
 
-1. Install **Python** (if you haven’t already).
-2. Make sure you’re on **macOS** (this won’t work on Windows or Linux).
-3. Run the program and follow the prompts:
+1. Make sure you’re on **macOS** (this won’t work on Windows or Linux).
+2. Run the program and follow the prompts:
    - Enter your script’s **raw URL**.
    - Set typing and **line intervals** (make them human-like, or you’re sus!).
-4. Keep **VS Code** open and focused while the spoofer does its thing.
+3. Keep **VS Code** open and focused while the spoofer does its thing.
 
 ## Downloading and Installing on macOS
 
-1. Download **Wakatime Spoofer** from the [Releases page](#) on this repo.
+1. Download **Wakatime Spoofer** from the [Releases page](https://github.com/disnos9/wakatime-spoofer/releases) on this repo.
 2. You'll download the file `wakatimespoofer-macos`.
 3. Open your **Terminal** and type:
     ```bash
