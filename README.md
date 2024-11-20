@@ -1,4 +1,4 @@
-Wakatime Spoofer by Peretas Technologies
+# Wakatime Spoofer by Peretas Technologies
 
 Welcome to the Wakatime Spoofer!
 
@@ -27,6 +27,25 @@ How to Use
 	•	Enter your script’s raw URL.
 	•	Set typing and line intervals (make them human-like, or you’re sus!).
 	4.	Keep VS Code open and focused while the spoofer does its thing.
+
+Downloading and Installing on MacOS:
+
+1. Download Wakatime Spoofer from the Releases page on this repo
+2. You'll download the file wakatimespoofer-macos
+3. Open your Terminal and type
+```bash
+cd downloads
+```
+4. Then, type the following commands in:
+```bash
+chmod +x ./wakatimespoofer-macos
+```
+• This allows you to run Wakatime Spoofer
+5. To run Wakatime Spoofer, run
+```bash
+./wakatimespoofer-macos
+```
+• Wakatime Spoofer will take between 10-30 seconds to load, if you see a blank terminal then the program is loading.
 
 Pro Tip: Use realistic intervals, like:
 	•	Characters: 0.4s - 1.2s
