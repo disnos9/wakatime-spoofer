@@ -40,12 +40,12 @@ cd downloads
 ```bash
 chmod +x ./wakatimespoofer-macos
 ```
-• This allows you to run Wakatime Spoofer
+- This allows you to run Wakatime Spoofer
 5. To run Wakatime Spoofer, run
 ```bash
 ./wakatimespoofer-macos
 ```
-• Wakatime Spoofer will take between 10-30 seconds to load, if you see a blank terminal then the program is loading.
+- Wakatime Spoofer will take between 10-30 seconds to load, if you see a blank terminal then the program is loading.
 
 Pro Tip: Use realistic intervals, like:
 	•	Characters: 0.4s - 1.2s
